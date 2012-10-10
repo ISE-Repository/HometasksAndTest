@@ -1,0 +1,5 @@
+D:\_Documents\_Study\c4s1\Факультатив\Лекции\2. Структури даних\BaseStructures\BaseStructures\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_Documents\_Study\c4s1\Факультатив\Лекции\2. Структури даних\BaseStructures\BaseStructures\bin\Debug\BaseStructures.exe
+D:\_Documents\_Study\c4s1\Факультатив\Лекции\2. Структури даних\BaseStructures\BaseStructures\bin\Debug\BaseStructures.pdb
+D:\_Documents\_Study\c4s1\Факультатив\Лекции\2. Структури даних\BaseStructures\BaseStructures\obj\x86\Debug\BaseStructures.exe
+D:\_Documents\_Study\c4s1\Факультатив\Лекции\2. Структури даних\BaseStructures\BaseStructures\obj\x86\Debug\BaseStructures.pdb

@@ -1,0 +1,5 @@
+D:\VSP\TestAlgoSol\TestAlgoSol\bin\Debug\TestAlgoSol.exe
+D:\VSP\TestAlgoSol\TestAlgoSol\bin\Debug\TestAlgoSol.pdb
+D:\VSP\TestAlgoSol\TestAlgoSol\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSP\TestAlgoSol\TestAlgoSol\obj\x86\Debug\TestAlgoSol.exe
+D:\VSP\TestAlgoSol\TestAlgoSol\obj\x86\Debug\TestAlgoSol.pdb
